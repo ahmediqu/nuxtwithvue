@@ -1,0 +1,6 @@
+@media only screen and (max-width: 600px) {
+  .product-btn {
+    display: flex;
+    flex-direction: column;
+  }
+}
